@@ -7,7 +7,7 @@ Java, C, C++, C#, Python
 
 **프레임워크**
 
-Spring, PyTorch, FastAPI, LangChain
+Spring, FastAPI, Vue.js, React, PyTorch, LangChain
 
 **데이터베이스**
 
