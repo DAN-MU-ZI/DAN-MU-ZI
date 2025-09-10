@@ -24,15 +24,20 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### **클라우드**
 ![NCP](https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![RunPod](https://img.shields.io/badge/RunPod-000000?style=for-the-badge&logo=cloud&logoColor=white) <!-- 대체 로고 사용 -->
-
-### **협업 및 도구**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+
+### **협업 및 도구**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -58,10 +63,11 @@
 
 ## 📝 자격증 및 어학
 
-
+- 2025.07.11 빅데이터분석기사 (한국데이터산업진흥원)
 - 2024.03.17 TOEIC Speaking IM2 (120)
 - 2023.11.15 정보처리기사 (한국산업인력공단)
 - 2019.03.01 컴퓨터활용능력 1급 (대한상공회의소)
+
 
 ## 🎯 대회/공모전
 
